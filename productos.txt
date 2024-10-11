@@ -1,0 +1,4 @@
+Manzana,3000.0,20
+Pera,1500.0,90
+Mostaza,25000.0,1
+Naranja,3400.0,200
